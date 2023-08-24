@@ -2,7 +2,7 @@
 
 LAST UPDATE: 8/24/23 7:10 a.m.
 
-***LAST UPDATE INCLUDES HISTOLOGY AND GENETICS (I AM WORKING ON BIOCHEM) FROM Wednesday 8/23/23*** 
+***LAST UPDATE INCLUDES HISTOLOGY, GENETICS and BIOCHEM FROM Wednesday 8/23/23*** 
 
 Hello my friends, this is an Anki deck I will be preparing throughout the year.
 
@@ -33,6 +33,7 @@ Phase 1:
       -Lecture 4: DNA Recombination (8/18/23)
       -Lecture 5: DNA Regulation (8/22/23)
       -Lecture 6: Transcription and RNA Processing (8/22/23)
+      -Lecture 7: Translation and Protein Processing (8/23/23)
 
     Anatomy
       -Heart and Circulation Review (added from my MCAT deck)
