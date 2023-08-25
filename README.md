@@ -1,8 +1,8 @@
 # Tulane Medical School Anki Deck
 
-LAST UPDATE: 8/24/23 7:10 a.m.
+LAST UPDATE: 8/25/23 6:45 a.m.
 
-***LAST UPDATE INCLUDES HISTOLOGY, GENETICS and BIOCHEM FROM Wednesday 8/23/23*** 
+***LAST UPDATE INCLUDES HISTOLOGY LAB 1 AND EPIGENETICS FROM THURSDAY 8/24/23*** 
 
 Hello my friends, this is an Anki deck I will be preparing throughout the year.
 
@@ -23,6 +23,8 @@ Phase 1:
       -Lecture 4: Cell Structure III - Organelles (8/22/23)
       -Lecture 5: Histology - Epithelium (8/22/23)
       -Lecture 6: Glands (8/23/23)
+
+      -Histology Lab 1 - Epitheleum, Glands, Cell-structures (8/24/23)
 
     Biochemistry
       -Amino Acid Review (added from my MCAT deck)
@@ -50,6 +52,7 @@ Phase 1:
       -Lecture 1: Gametogenesis, Meiosis, Mitosis and Twinning (8/16/23)
       -Lecture 2: Disorders of the Autosomes (8/17/23)
       -Lecture 3a + 3b: Mendelian Inheritance and Pedigree (8/17/23)
+      -Lecture 4: Epigenetics (8/24/23)
 
 To download one must be on a computer (not mobile). Click the green button that says "code" then select "download zip" to download the deck.
 
