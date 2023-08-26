@@ -1,8 +1,8 @@
 # Tulane Medical School Anki Deck
 
-LAST UPDATE: 8/25/23 8:50 a.m.
+LAST UPDATE: 8/26/23 2:00 ap.m.
 
-***LAST UPDATE INCLUDES HISTOLOGY LAB 1, EPIGENETICS AND BIOCHEM FROM THURSDAY 8/24/23*** 
+***LAST UPDATE INCLUDES BIOCHEM FROM FRIDAY 8/25/23*** 
 
 Hello my friends, this is an Anki deck I will be preparing throughout the year.
 
@@ -37,6 +37,7 @@ Phase 1:
       -Lecture 6: Transcription and RNA Processing (8/22/23)
       -Lecture 7: Translation and Protein Processing (8/23/23)
       -Lecture 8: G-Protein Coupled Receptor Signaling (8/24/23)
+      -Lecture 89: Single Pass Transmembrane Receptor Signaling (8/25/23)
 
     Anatomy
       -Heart and Circulation Review (added from my MCAT deck)
