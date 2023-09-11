@@ -1,6 +1,6 @@
 # Tulane Medical School Anki Deck
 
-LAST UPDATE: 9/11/23 7:50 a.m.
+LAST UPDATE: 9/11/23 12:25 a.m.
 
 ***LAST UPDATE INCLUDES LECTURES FROM TUESDAY 9/12/23*** 
 
@@ -22,6 +22,7 @@ Phase 1:
 
       -Lecture 1: Microtubules (9/11/23)
       -Lecture 2: ER-Golgi Trafficking (9/12/23)
+      -Lecture 3: Actin Cytoskeleton (9/13/23)
 
 
     Anatomy
@@ -31,6 +32,7 @@ Phase 1:
 
 
     Physiology
+    
       -Lecture 1: Membrane Potential (9/8/23)
       -Lecture 2: Action Potentials (9/11/23)
 
