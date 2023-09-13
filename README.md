@@ -1,6 +1,10 @@
 # Tulane Medical School Anki Deck
 
+<<<<<<< HEAD
 LAST UPDATE: 9/11/23 12:25 a.m.
+=======
+LAST UPDATE: 9/13/23 7:10 a.m.
+>>>>>>> 990be85 (add physio 3)
 
 ***LAST UPDATE INCLUDES LECTURES FROM TUESDAY 9/12/23*** 
 
@@ -8,6 +12,13 @@ Hello my friends, this is an Anki deck I will be preparing throughout the year.
 
 ***FOR ANATOMY USE THE OFFICIAL TULANE ANKI DECK***
 
+<<<<<<< HEAD
+=======
+I will continually update this deck. So that you do not need to import the whole deck every single time, I suggest importing only the packages that you do not have but I recently added. However, IF YOU DO NOT HAVE ANY OF THE ANKI CARDS I suggest downloading the file from:
+
+https://drive.google.com/file/d/186XN2hR3YA6qifZUE34e8DT50g-15YE_/view?usp=sharing
+
+>>>>>>> 990be85 (add physio 3)
  Below is a list of the lectures covered so far in the deck:
 
 Phase 1:
@@ -29,12 +40,24 @@ Phase 1:
 
       -Lecture 1: Posterior, Scapula, Pectoral and Axillary Regions (9/7/23)
       -Lecture 2: Brachial Plexus (9/8/23)
+<<<<<<< HEAD
 
 
     Physiology
     
       -Lecture 1: Membrane Potential (9/8/23)
       -Lecture 2: Action Potentials (9/11/23)
+=======
+      -Lecture 3: Arm and Shoulder (9/11/23)
+
+
+    Physiology
+
+      -Lecture 1: Membrane Potential (9/8/23)
+      -Lecture 2: Action Potentials (9/11/23)
+      -Lecture 3: Neuromuscular Junction and Other Synapses (9/13/23)
+      -Lecture 4: Skeletal Muscle (9/14/23)
+>>>>>>> 990be85 (add physio 3)
 
     Genetics
 
