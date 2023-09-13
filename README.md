@@ -29,14 +29,6 @@ Phase 1:
       -Lecture 2: ER-Golgi Trafficking (9/12/23)
       -Lecture 3: Actin Cytoskeleton (9/13/23)
 
-
-    Anatomy
-
-      -Lecture 1: Posterior, Scapula, Pectoral and Axillary Regions (9/7/23)
-      -Lecture 2: Brachial Plexus (9/8/23)
-      -Lecture 3: Arm and Shoulder (9/11/23)
-
-
     Physiology
 
       -Lecture 1: Membrane Potential (9/8/23)
@@ -55,7 +47,7 @@ To download one must be on a computer (not mobile). Click the green button that 
 -For Biochem, the reading he handed out is extremely helpful. I made cards primarily out of the material that was BOLDED (which I have been told is the most important info). If you are wondering where this reading material is, he sent an email about it and the packet can be picked up in Hutch. It is also on eMedley.
 
 
--For Anatomy, I used Anki's Image Occlusion feature to create cards that are more image-based from the lecture slides on eMedley. But I will be using the OFFICIAL ANKI DECK that Tulane supplies very soon.
+-For Anatomy, I will be using the OFFICIAL ANKI DECK that Tulane supplies.
 
 -For Physiology I used the reading he provides as well as his slides.
 
