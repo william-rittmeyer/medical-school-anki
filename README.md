@@ -9,9 +9,7 @@ Hello my friends, this is an Anki deck I will be preparing throughout the year.
 ***FOR ANATOMY USE THE OFFICIAL TULANE ANKI DECK***
 
 
-I will continually update this deck. So that you do not need to import the whole deck every single time, I suggest importing only the packages that you do not have but I recently added. However, IF YOU DO NOT HAVE ANY OF THE ANKI CARDS I suggest downloading the file from:
-
-https://drive.google.com/file/d/186XN2hR3YA6qifZUE34e8DT50g-15YE_/view?usp=sharing
+I will continually update this deck. So that you do not need to import the whole deck every single time, I suggest importing only the packages that you do not have but I recently added. However, IF YOU DO NOT HAVE ANY OF THE ANKI CARDS I suggest importing the whole deck that is in the root folder.
 
  Below is a list of the lectures covered so far in the deck:
 
