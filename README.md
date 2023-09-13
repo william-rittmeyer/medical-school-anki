@@ -1,6 +1,6 @@
 # Tulane Medical School Anki Deck
 
-LAST UPDATE: 9/11/23 12:25 a.m.
+LAST UPDATE: 9/13/23 7:40 a.m.
 
 ***LAST UPDATE INCLUDES LECTURES FROM TUESDAY 9/12/23*** 
 
