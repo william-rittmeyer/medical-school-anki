@@ -2,7 +2,7 @@
 
 LAST UPDATE: 9/13/23 7:40 a.m.
 
-***LAST UPDATE INCLUDES LECTURES FROM TUESDAY 9/12/23*** 
+***LAST UPDATE INCLUDES LECTURES FROM THURSDAY 9/14/23*** 
 
 Hello my friends, this is an Anki deck I will be preparing throughout the year.
 
