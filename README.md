@@ -1,8 +1,8 @@
 # Tulane Medical School Anki Deck
 
-LAST UPDATE: 9/14/23 3:05 p.m.
+LAST UPDATE: 9/18/23 4:35 p.m.
 
-***LAST UPDATE INCLUDES LECTURES FROM THURSDAY 9/14/23*** 
+***LAST UPDATE INCLUDES LECTURES FROM Friday 9/15/23*** 
 
 Hello my friends, this is an Anki deck I will be preparing throughout the year.
 
@@ -26,7 +26,8 @@ Phase 1:
       -Lecture 1: Microtubules (9/11/23)
       -Lecture 2: ER-Golgi Trafficking (9/12/23)
       -Lecture 3: Actin Cytoskeleton (9/13/23)
-      -Lecture 4: Collagen (9/14/23)
+      -Lecture 4: Collagen (9/15/23)
+      -Lecture 5: Extracellular Matrtix (9/15/23)
 
     Physiology
 
@@ -34,6 +35,7 @@ Phase 1:
       -Lecture 2: Action Potentials (9/11/23)
       -Lecture 3: Neuromuscular Junction and Other Synapses (9/13/23)
       -Lecture 4: Skeletal Muscle (9/14/23)
+      -Lecture 5: Smooth Muscle (9/15/23)
 
     Genetics
 
