@@ -1,6 +1,6 @@
 # Tulane Medical School Anki Deck
 
-LAST UPDATE: 9/18/23 4:35 p.m.
+LAST UPDATE: 9/19/23 7:15 p.m.
 
 ***LAST UPDATE INCLUDES LECTURES FROM Friday 9/15/23*** 
 
@@ -20,6 +20,7 @@ Phase 1:
     Histology
 
       -Lecture 1: Nerve Tissue (9/12/23)
+      -Lecture 2: Cartilage and Bone (9/18/23)
 
     Biochemistry
 
