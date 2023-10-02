@@ -21,7 +21,7 @@ Phase 1:
     Biochemistry
 
       -Lecture 1: Enzymes (9/29/23)
-      -Lecture 2: 2. Phospholipids, Sphingolipids and Eicosanoids (10/2/23)
+      -Lecture 2: Phospholipids, Sphingolipids and Eicosanoids (10/2/23)
 
     Genetics
 
